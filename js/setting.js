@@ -18,8 +18,8 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* zushi cofog */
-  '1': { icon: 'icons/zushi/zushi/vote.svg', color: '#C75746', bcolor: '#935B3B' },
-  '1-1': { icon: 'icons/zushi/zushi/vote.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1': { icon: 'icons/zushi/vote.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1-1': { icon: 'icons/zushi/vote.svg', color: '#C75746', bcolor: '#935B3B' },
   '2': { icon: 'icons/zushi/machi.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-1': { icon: 'icons/zushi/machi.svg', color: '#C75746', bcolor: '#0AB971' },
   '3': { icon: 'icons/zushi/family.svg', color: '#C75746', bcolor: '#4E6D00' },
