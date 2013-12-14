@@ -6,12 +6,12 @@ var Taxes = Taxes || {};
 
 Taxes.baseKoujo = 330000; // 住民税基礎控除
 Taxes.huyoKoujo = 330000; // 一人分の扶養控除
-Taxes.taxRate = 0.06; // 住民税率
+Taxes.taxRate = 0.06; // 住民税率（住民税のうち市民税=6割のみを対象にする）
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'yokohama_budget';
-OpenSpending.year = '2012';
+OpenSpending.identifier = 'zushi_2013_budget_outline';
+OpenSpending.year = '2013';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
